@@ -1,0 +1,78 @@
+C:/Users/gvnrb/Desktop/lab5_oac/sc_top.sv {1 {vlog -work work -sv -stats=none C:/Users/gvnrb/Desktop/lab5_oac/sc_top.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module sc_top
+
+Top level modules:
+	sc_top
+
+} {} {}} C:/Users/gvnrb/Desktop/lab5_oac/sc_dmem.sv {1 {vlog -work work -sv -stats=none C:/Users/gvnrb/Desktop/lab5_oac/sc_dmem.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module sc_dmem
+
+Top level modules:
+	sc_dmem
+
+} {} {}} C:/Users/gvnrb/Desktop/lab5_oac/sc_datapath.sv {1 {vlog -work work -sv -stats=none C:/Users/gvnrb/Desktop/lab5_oac/sc_datapath.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module sc_datapath
+
+Top level modules:
+	sc_datapath
+
+} {} {}} C:/Users/gvnrb/Desktop/lab5_oac/sc_imem.sv {1 {vlog -work work -sv -stats=none C:/Users/gvnrb/Desktop/lab5_oac/sc_imem.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module sc_imem
+
+Top level modules:
+	sc_imem
+
+} {} {}} C:/Users/gvnrb/Desktop/lab5_oac/sc_cpu.sv {1 {vlog -work work -sv -stats=none C:/Users/gvnrb/Desktop/lab5_oac/sc_cpu.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module sc_cpu
+
+Top level modules:
+	sc_cpu
+
+} {} {}} C:/Users/gvnrb/Desktop/lab5_oac/sc_sign_ext.sv {1 {vlog -work work -sv -stats=none C:/Users/gvnrb/Desktop/lab5_oac/sc_sign_ext.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module sc_sign_ext
+
+Top level modules:
+	sc_sign_ext
+
+} {} {}} C:/Users/gvnrb/Desktop/lab5_oac/sc_cpu_tb.sv {1 {vlog -work work -sv -stats=none C:/Users/gvnrb/Desktop/lab5_oac/sc_cpu_tb.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module sc_cpu_tb
+
+Top level modules:
+	sc_cpu_tb
+
+} {} {}} C:/Users/gvnrb/Desktop/lab5_oac/sc_control.sv {1 {vlog -work work -sv -stats=none C:/Users/gvnrb/Desktop/lab5_oac/sc_control.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module sc_control
+
+Top level modules:
+	sc_control
+
+} {} {}} C:/Users/gvnrb/Desktop/lab5_oac/sc_regfile.sv {1 {vlog -work work -sv -stats=none C:/Users/gvnrb/Desktop/lab5_oac/sc_regfile.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module sc_regfile
+
+Top level modules:
+	sc_regfile
+
+} {} {}} C:/Users/gvnrb/Desktop/lab5_oac/sc_alu_ctrl.sv {1 {vlog -work work -sv -stats=none C:/Users/gvnrb/Desktop/lab5_oac/sc_alu_ctrl.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module sc_alu_ctrl
+
+Top level modules:
+	sc_alu_ctrl
+
+} {} {}} C:/Users/gvnrb/Desktop/lab5_oac/sc_alu.sv {1 {vlog -work work -sv -stats=none C:/Users/gvnrb/Desktop/lab5_oac/sc_alu.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module sc_alu
+
+Top level modules:
+	sc_alu
+
+} {} {}}
