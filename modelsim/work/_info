@@ -1,0 +1,286 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/WINDOWS/system32
+vsc_alu
+Z0 DXx6 sv_std 3 std 0 22 VYECXdT12H8WgbUP_5Y6:3
+Z1 !s110 1776086334
+!i10b 1
+!s100 Uk803E`ZU>AHHI7@Eeg>51
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I6>aY@jU0J@:YiOJ==V74Y0
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+S1
+Z4 dC:/Users/gvnrb/Desktop/lab5_oac/modelsim
+Z5 w1776086079
+8C:/Users/gvnrb/Desktop/lab5_oac/sc_alu.sv
+FC:/Users/gvnrb/Desktop/lab5_oac/sc_alu.sv
+!i122 0
+L0 18 26
+Z6 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z7 !s108 1776086334.000000
+!s107 C:/Users/gvnrb/Desktop/lab5_oac/sc_alu.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/gvnrb/Desktop/lab5_oac/sc_alu.sv|
+!i113 1
+Z8 o-work work -sv
+Z9 tCvgOpt 0
+vsc_alu_ctrl
+R0
+R1
+!i10b 1
+!s100 PaQWR?iz`JU_K]CU7cGGF1
+R2
+I3Zk0Wb7bFWZJLmQ2mSI^[0
+R3
+S1
+R4
+R5
+8C:/Users/gvnrb/Desktop/lab5_oac/sc_alu_ctrl.sv
+FC:/Users/gvnrb/Desktop/lab5_oac/sc_alu_ctrl.sv
+!i122 1
+L0 32 29
+R6
+r1
+!s85 0
+31
+R7
+!s107 C:/Users/gvnrb/Desktop/lab5_oac/sc_alu_ctrl.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/gvnrb/Desktop/lab5_oac/sc_alu_ctrl.sv|
+!i113 1
+R8
+R9
+vsc_control
+R0
+R1
+!i10b 1
+!s100 7KLR>Ob3zl=ei90nKCG2m2
+R2
+I4ELe7Xle<QD_CAJjo_:n51
+R3
+S1
+R4
+w1776086125
+8C:/Users/gvnrb/Desktop/lab5_oac/sc_control.sv
+FC:/Users/gvnrb/Desktop/lab5_oac/sc_control.sv
+!i122 2
+L0 39 70
+R6
+r1
+!s85 0
+31
+R7
+!s107 C:/Users/gvnrb/Desktop/lab5_oac/sc_control.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/gvnrb/Desktop/lab5_oac/sc_control.sv|
+!i113 1
+R8
+R9
+vsc_cpu
+R0
+R1
+!i10b 1
+!s100 I[@1Bgm;KZO]l6hAZIcm?2
+R2
+IncFD58Km@16:l[dD@<<gC3
+R3
+S1
+R4
+R5
+8C:/Users/gvnrb/Desktop/lab5_oac/sc_cpu.sv
+FC:/Users/gvnrb/Desktop/lab5_oac/sc_cpu.sv
+!i122 3
+L0 17 52
+R6
+r1
+!s85 0
+31
+R7
+!s107 C:/Users/gvnrb/Desktop/lab5_oac/sc_cpu.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/gvnrb/Desktop/lab5_oac/sc_cpu.sv|
+!i113 1
+R8
+R9
+vsc_cpu_tb
+R0
+R1
+!i10b 1
+!s100 Jz:m]zb:VB25XJb6iMz3h2
+R2
+IK>ZbTi1E<XB^RS?_=9D8l3
+R3
+S1
+R4
+R5
+8C:/Users/gvnrb/Desktop/lab5_oac/sc_cpu_tb.sv
+FC:/Users/gvnrb/Desktop/lab5_oac/sc_cpu_tb.sv
+!i122 4
+L0 47 210
+R6
+r1
+!s85 0
+31
+R7
+!s107 C:/Users/gvnrb/Desktop/lab5_oac/sc_cpu_tb.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/gvnrb/Desktop/lab5_oac/sc_cpu_tb.sv|
+!i113 1
+R8
+R9
+vsc_datapath
+R0
+Z10 !s110 1776086335
+!i10b 1
+!s100 5D<zOoSI12M^7=PCNoc_H2
+R2
+I]nUG7M=Y6bELMWU;LAG;33
+R3
+S1
+R4
+R5
+8C:/Users/gvnrb/Desktop/lab5_oac/sc_datapath.sv
+FC:/Users/gvnrb/Desktop/lab5_oac/sc_datapath.sv
+!i122 5
+L0 28 155
+R6
+r1
+!s85 0
+31
+R7
+!s107 C:/Users/gvnrb/Desktop/lab5_oac/sc_datapath.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/gvnrb/Desktop/lab5_oac/sc_datapath.sv|
+!i113 1
+R8
+R9
+vsc_dmem
+R0
+R10
+!i10b 1
+!s100 fU]`oonEimcKAnVZZEMOO0
+R2
+I1OZ>BBR<`BGD]`97oc8Ji0
+R3
+S1
+R4
+R5
+8C:/Users/gvnrb/Desktop/lab5_oac/sc_dmem.sv
+FC:/Users/gvnrb/Desktop/lab5_oac/sc_dmem.sv
+!i122 6
+L0 25 21
+R6
+r1
+!s85 0
+31
+Z11 !s108 1776086335.000000
+!s107 C:/Users/gvnrb/Desktop/lab5_oac/sc_dmem.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/gvnrb/Desktop/lab5_oac/sc_dmem.sv|
+!i113 1
+R8
+R9
+vsc_imem
+R0
+R10
+!i10b 1
+!s100 :9VLLVR@70EBi5QaQl;Q[0
+R2
+IKB?=4a5G7F3I<3a>^FM4[1
+R3
+S1
+R4
+R5
+8C:/Users/gvnrb/Desktop/lab5_oac/sc_imem.sv
+FC:/Users/gvnrb/Desktop/lab5_oac/sc_imem.sv
+!i122 7
+L0 28 15
+R6
+r1
+!s85 0
+31
+R11
+!s107 C:/Users/gvnrb/Desktop/lab5_oac/sc_imem.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/gvnrb/Desktop/lab5_oac/sc_imem.sv|
+!i113 1
+R8
+R9
+vsc_regfile
+R0
+R10
+!i10b 1
+!s100 J>:ci;E4b27QelOzBK8P^3
+R2
+INe]@6Dj[FV0_F:bOzMeab2
+R3
+S1
+R4
+R5
+8C:/Users/gvnrb/Desktop/lab5_oac/sc_regfile.sv
+FC:/Users/gvnrb/Desktop/lab5_oac/sc_regfile.sv
+!i122 8
+L0 15 41
+R6
+r1
+!s85 0
+31
+R11
+!s107 C:/Users/gvnrb/Desktop/lab5_oac/sc_regfile.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/gvnrb/Desktop/lab5_oac/sc_regfile.sv|
+!i113 1
+R8
+R9
+vsc_sign_ext
+R0
+R10
+!i10b 1
+!s100 QCJ@z=8;ZkeI2^SCzSbA_1
+R2
+Igf7iklU3n?oLLLN6@MOVY3
+R3
+S1
+R4
+R5
+8C:/Users/gvnrb/Desktop/lab5_oac/sc_sign_ext.sv
+FC:/Users/gvnrb/Desktop/lab5_oac/sc_sign_ext.sv
+!i122 9
+L0 30 27
+R6
+r1
+!s85 0
+31
+R11
+!s107 C:/Users/gvnrb/Desktop/lab5_oac/sc_sign_ext.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/gvnrb/Desktop/lab5_oac/sc_sign_ext.sv|
+!i113 1
+R8
+R9
+vsc_top
+R0
+R10
+!i10b 1
+!s100 koOi]7k>0;H_nPRKDfg:42
+R2
+I`VFaWM`@Qm:6ib7_7mkfb0
+R3
+S1
+R4
+R5
+8C:/Users/gvnrb/Desktop/lab5_oac/sc_top.sv
+FC:/Users/gvnrb/Desktop/lab5_oac/sc_top.sv
+!i122 10
+L0 21 13
+R6
+r1
+!s85 0
+31
+R11
+!s107 C:/Users/gvnrb/Desktop/lab5_oac/sc_top.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/gvnrb/Desktop/lab5_oac/sc_top.sv|
+!i113 1
+R8
+R9

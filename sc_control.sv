@@ -66,22 +66,42 @@ module sc_control (
 
         case (Opcode)
             R_TYPE: begin
+                RegWrite = 1'b1;
+                ALUOp    = 2'b10;
                 // TODO: assert the correct control signals for R-type instructions
             end
 
             LOAD: begin
+                ALUSrc   = 1'b1;
+                MemtoReg = 1'b1;
+                RegWrite = 1'b1;
+                MemRead  = 1'b1; 
                 // TODO: assert the correct control signals for lw
             end
 
             STORE: begin
+                ALUSrc   = 1'b1;
+                MemWrite = 1'b1;
+
                 // TODO: assert the correct control signals for sw
             end
 
             BRANCH: begin
+                Branch   = 1'b1;
+                ALUOp    = 2'b01;
                 // TODO: assert the correct control signals for beq
             end
 
-            default: ; // signals remain at safe defaults
+            default: begin 
+                ALUSrc   = 1'b0;
+                MemtoReg = 1'b0;
+                RegWrite = 1'b0;
+                MemRead  = 1'b0;
+                MemWrite = 1'b0;
+                Branch   = 1'b0;
+                ALUOp    = 2'b00;
+                 // signals remain at safe defaults
+            end
         endcase
     end
 
